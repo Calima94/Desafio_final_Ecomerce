@@ -1,3 +1,3 @@
-# DIO - Desafio_final_Ecomerce
+# DIO - Desafio_final_Ecommerce
 
-Repositório com a atividade de Ecomerce apresentada no Bootcamp da Dio Database Experience
+Repositório com a atividade de Ecommerce apresentada no Bootcamp da Dio Database Experience
